@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crispy Project", "Crispy Project.csproj", "{819C4F32-1BAB-4ED5-BF59-5FE8ECE4529A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{819C4F32-1BAB-4ED5-BF59-5FE8ECE4529A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819C4F32-1BAB-4ED5-BF59-5FE8ECE4529A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819C4F32-1BAB-4ED5-BF59-5FE8ECE4529A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819C4F32-1BAB-4ED5-BF59-5FE8ECE4529A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B7A30C4-2EE7-4A96-AC5E-E8E036C24FFA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+C:\Users\yasin\source\repos\Arduino_Arayuz\obj\Debug\Crispy Project.csprojAssemblyReference.cache
+C:\Users\yasin\source\repos\Arduino_Arayuz\obj\Debug\Crispy Project.csproj.GenerateResource.cache
+C:\Users\yasin\source\repos\Arduino_Arayuz\obj\Debug\Crispy Project.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\Arduino_Arayuz\bin\Debug\Crispy Project.exe.config
+C:\Users\yasin\source\repos\Arduino_Arayuz\bin\Debug\Crispy Project.exe
+C:\Users\yasin\source\repos\Arduino_Arayuz\bin\Debug\Crispy Project.pdb
+C:\Users\yasin\source\repos\Arduino_Arayuz\obj\Debug\Crispy_Project.Properties.Resources.resources
+C:\Users\yasin\source\repos\Arduino_Arayuz\obj\Debug\Crispy Project.exe
+C:\Users\yasin\source\repos\Arduino_Arayuz\obj\Debug\Crispy Project.pdb
+C:\Users\yasin\source\repos\Arduino_Arayuz\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\yasin\source\repos\Arduino_Arayuz\obj\Debug\Crispy_Project.Main.resources
+C:\Users\Sedef\Desktop\ARDUINO_DENEMELER\Crispy Project\Crispy Project\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\Sedef\Desktop\ARDUINO_DENEMELER\Crispy Project\Crispy Project\bin\Debug\Crispy Project.exe.config
+C:\Users\Sedef\Desktop\ARDUINO_DENEMELER\Crispy Project\Crispy Project\bin\Debug\Crispy Project.exe
+C:\Users\Sedef\Desktop\ARDUINO_DENEMELER\Crispy Project\Crispy Project\bin\Debug\Crispy Project.pdb
+C:\Users\Sedef\Desktop\ARDUINO_DENEMELER\Crispy Project\Crispy Project\obj\Debug\Crispy Project.csprojAssemblyReference.cache
+C:\Users\Sedef\Desktop\ARDUINO_DENEMELER\Crispy Project\Crispy Project\obj\Debug\Crispy_Project.Main.resources
+C:\Users\Sedef\Desktop\ARDUINO_DENEMELER\Crispy Project\Crispy Project\obj\Debug\Crispy_Project.Properties.Resources.resources
+C:\Users\Sedef\Desktop\ARDUINO_DENEMELER\Crispy Project\Crispy Project\obj\Debug\Crispy Project.csproj.GenerateResource.cache
+C:\Users\Sedef\Desktop\ARDUINO_DENEMELER\Crispy Project\Crispy Project\obj\Debug\Crispy Project.csproj.CoreCompileInputs.cache
+C:\Users\Sedef\Desktop\ARDUINO_DENEMELER\Crispy Project\Crispy Project\obj\Debug\Crispy Project.exe
+C:\Users\Sedef\Desktop\ARDUINO_DENEMELER\Crispy Project\Crispy Project\obj\Debug\Crispy Project.pdb

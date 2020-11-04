@@ -1,0 +1,10 @@
+C:\Users\yasin\source\repos\Arduino_Arayuz\obj\Debug\WF_Uygulaması.Form1.resources
+C:\Users\yasin\source\repos\Arduino_Arayuz\obj\Debug\Arduino_Arayuz.Properties.Resources.resources
+C:\Users\yasin\source\repos\Arduino_Arayuz\obj\Debug\Arduino_Arayuz.csproj.GenerateResource.cache
+C:\Users\yasin\source\repos\Arduino_Arayuz\obj\Debug\Arduino_Arayuz.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\Arduino_Arayuz\bin\Debug\Arduino_Arayuz.exe.config
+C:\Users\yasin\source\repos\Arduino_Arayuz\bin\Debug\Arduino_Arayuz.exe
+C:\Users\yasin\source\repos\Arduino_Arayuz\bin\Debug\Arduino_Arayuz.pdb
+C:\Users\yasin\source\repos\Arduino_Arayuz\obj\Debug\Arduino_Arayuz.exe
+C:\Users\yasin\source\repos\Arduino_Arayuz\obj\Debug\Arduino_Arayuz.pdb
+C:\Users\yasin\source\repos\Arduino_Arayuz\obj\Debug\Arduino_Arayuz.csprojAssemblyReference.cache
